@@ -7,7 +7,7 @@
 Dog breed classifier using convolutional neural network(This Project is part from Udacity's deep learning nanodegree))
 
 ## Project Overview
-The aim of this project is giving the model an image of a dog , and the model will identify an estimate of the canine's breed . But if it was supplied with an image of human , the code will identify the resembling dog breed.
+The aim of this project is giving the model an image of a dog , and the model will identify an estimate of the canine's breed . But if it is supplied with an image of human , the model will identify the resembling dog breed.
 
 
 ![Sample Output][image1]
