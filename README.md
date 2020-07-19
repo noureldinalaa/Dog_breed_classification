@@ -36,3 +36,6 @@ The aim of this project is giving the model an image of a dog , and the model wi
 	```
 		jupyter notebook dog_app.ipynb
 	```
+
+## Further work 
+To try different Model architecture to achieve higher acuuracy .
